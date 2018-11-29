@@ -1,7 +1,5 @@
 # Patrick Lauer
 
-Fire Safety Scientist from Düsseldorf, PhD Student at University of Wuppertal
-
 ## Profiles:
 
 https://git.uni-wuppertal.de/lauer
